@@ -1,6 +1,6 @@
-# taller-docker-nginx
+# Taller Docker y Nginx
 
-## Aporte del Estudiante 2: Docker y Docker Compose
+## Docker y Docker Compose
 
 Esta parte del taller configura la infraestructura de contenedores y la comunicación entre los servicios de la aplicación.
 
